@@ -9,6 +9,6 @@
 3. Car Rentals 🚙
 4. Tours 🚞
 
-<p align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./src/img/forkify-view.gif" alt="Landing page of Trillo"/></a></p>
+<p align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./img/trillo.gif" alt="Landing page of Trillo"/></a></p>
 
 ###### Using for portfolio purpose :link:[Sahil Awasthi](https://linktr.ee/sahilawasthi)

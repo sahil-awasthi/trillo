@@ -212,6 +212,29 @@
 }
 
 ////////////////////////////////////////
+// ABOUT
+
+.about {
+  text-align: center;
+  margin: 2rem;
+  position: relative;
+  font-size: 1.2rem;
+  transition: all 0.2s;
+  display: inline-block;
+
+  @media only screen and (max-width: $bp-medium) {
+    display: none;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+////////////////////////////////////////
 // LEGAL TEXT
 .legal {
   font-size: 1.2rem;
